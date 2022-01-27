@@ -1,2 +1,2 @@
-# paginas-de-muestra
- una pequeña demostracion de lo que hago
+# practicas y ejercisios
+carpeta de practicas 
