@@ -1,2 +1,2 @@
-# paginas-de-muestra
- una pequeña demostracion de lo que hago
+# paginas de practicas 
+ carpeta de ejercisios 
