@@ -12,7 +12,7 @@ $cargarDatos.onclick = function (){
 
    const divDePagina = document.createElement('div');
    const parrafoEnDiv = document.createElement('p');
-   const parrafoEnDivDos = document.createElement('p');
+   //const parrafoEnDivDos = document.createElement('p');
    const contenidoParrafo = document.createTextNode( "primer nombre: " + primerNombre.value + " segundo nombre: " + segundoNombre.value + 
    " apellido: " + apellidoUsuario.value + " edad: " + edadUsuario.value);
    //const contenidoParrafoDos = document.createTextNode ()
